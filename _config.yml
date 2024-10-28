@@ -5,15 +5,15 @@ icon_img: /assets/img/icon.webp
 name: "Martin Markmann"
 job: "Softwareentwickler und DevOps Engineer"
 
-phone_number: 012-345-6789
+# phone_number: 012-345-6789
 address: Rostock, Germany
 email: mmarkmann@posteo.de
 linkedin_username: martin-markmann-3063b1110
 github_username: maddinpsy
-instagram_username: instagram
-twitter_username: twitter
-facebook_username: facebook
-youtube_username: youtube
+# instagram_username: instagram
+# twitter_username: twitter
+# facebook_username: facebook
+# youtube_username: youtube
 blog_url: mmarkmann.de
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
