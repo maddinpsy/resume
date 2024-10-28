@@ -1,31 +1,31 @@
-subject: Berufserfahrung
+subject: Work Experience
 listing-order: 1
 icon: "/assets/img/briefcase.svg"
 contents:
   - title: ALTOW Digital Innovation
-    role: Software Entwickler:in
-    date: Apr. 2023 - Heute
+    role: Software Developer
+    date: Apr. 2023 - Present
     description:
-      - Automatisierter Aufbau von Cloud-Infrastruktur sowie Gewährleistung des Betriebs mit entsprechendem Monitoring.
-      - Implementierung eines Authentifizierungsbackend für eine eLearning Platform.
-      - Prototypische Visualisierung von mehrdimensiaonalen Messdaten in einer Virtual Reality.
+      - Automated setup of cloud infrastructure and ensuring operations with appropriate monitoring.
+      - Implementation of an authentication backend for an eLearning platform.
+      - Prototype visualization of multidimensional measurement data in Virtual Reality.
 
   - title: RST Rostock System-Technik GmbH
-    role: Softwareingenieur
-    date: Aug. 2019 - März 2023
+    role: Software Developer
+    date: Aug. 2019 - Mar. 2023
     description:
-      - Implementierung eines Schnittstellensimulators für ein militärisches Radarsystem.
-      - Implementierung von Geräteschnittstellen einer Anlage zur Materialprüfung mittels Röntgenstrahlung, Unterstützung bei der Bildverarbeitung und Kamerakalibrierung.
+      - Implementation of an interface simulator for a military radar system.
+      - Implementation of device interfaces for a system for material testing using X-ray, support in image processing, and camera calibration.
 
   - title: SIV.AG
-    role: Werkstudent
+    role: Working Student
     date: Jan. 2017 - Apr. 2019
     description:
-      - Weiterentwicklung des Microsoft SharePoints zur Nutzung als Wissensdatenbank.
-      - Entwicklung eines Unittest Frameworks für PLSQL
+      - Further development of Microsoft SharePoint for use as a knowledge database.
+      - Development of a unit test framework for PLSQL.
 
   - title: Derdack
-    role: Werkstudent
+    role: Working Student
     date: Jan. 2014 - Sept. 2014
     description:
-      - Entwicklung einer Karten- und Navigationseinheit für eine bestehende Software.
+      - Development of a mapping and navigation unit for existing software.
