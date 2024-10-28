@@ -1,22 +1,31 @@
-subject: Experiences
-listing-order: 2
+subject: Berufserfahrung
+listing-order: 1
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: ALTOW Digital Innovation
+    role: Software Entwickler:in
+    date: Apr. 2023 - Heute
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
-    description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
-    description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - Automatisierter Aufbau von Cloud-Infrastruktur sowie Gewährleistung des Betriebs mit entsprechendem Monitoring.
+      - Implementierung eines Authentifizierungsbackend für eine eLearning Platform.
+      - Prototypische Visualisierung von mehrdimensiaonalen Messdaten in einer Virtual Reality.
+
+  - title: RST Rostock System-Technik GmbH
+    role: Softwareingenieur
+    date: Aug. 2019 - März 2023
+    description:
+      - Implementierung eines Schnittstellensimulators für ein militärisches Radarsystem.
+      - Implementierung von Geräteschnittstellen einer Anlage zur Materialprüfung mittels Röntgenstrahlung, Unterstützung bei der Bildverarbeitung und Kamerakalibrierung.
+
+  - title: SIV.AG
+    role: Werkstudent
+    date: Jan. 2017 - Apr. 2019
+    description:
+      - Weiterentwicklung des Microsoft SharePoints zur Nutzung als Wissensdatenbank.
+      - Entwicklung eines Unittest Frameworks für PLSQL
+
+  - title: Derdack
+    role: Werkstudent
+    date: Jan. 2014 - Sept. 2014
+    description:
+      - Entwicklung einer Karten- und Navigationseinheit für eine bestehende Software.
