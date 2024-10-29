@@ -14,7 +14,7 @@ github_username: maddinpsy
 # twitter_username: twitter
 # facebook_username: facebook
 # youtube_username: youtube
-blog_url: mmarkmann.de
+blog_url: https://mmarkmann.de
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
 # Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
