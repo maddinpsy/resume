@@ -2,8 +2,7 @@ subject: About Me
 listing-order: 1
 icon: "/assets/img/user-svgrepo-com.svg"
 contents:
-  - title: About Me
-    description:
+  - description:
       - I have a wide range of interests and have worked in various areas of software development since my studies.
       - From embedded systems to desktop and app development to cloud development, I have extensive experience in many fields.
       - My DevOps knowledge in particular helps me to design robust cloud architectures.
