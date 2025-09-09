@@ -2,7 +2,27 @@ subject: Projects
 listing-order: 4
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "Dataport AöR (Sep. 2023 - Nov. 2024)"
+  - title: "Oskar System Architecture and DevOps (Jun. 2025 - now)"
+    description:
+      - System architecture for VoIP telephony application
+      - Carrier grade High Availability
+      - DevOps with Terraform and SaltStack
+      - "Technologies: SIP, BGP, Terraform, SaltStack, GitLab CI/CD"
+
+  - title: "Framework Robotics, C++ Software development (Apr. 2025 - Jun. 2025)"
+    description:
+      - Software development, GUI for diving robot
+      - Consulting on modern GUI technologies
+      - "Technologies: C++, OpenGL, React, WebRTC, Godot"
+
+  - title: "Rostock App System Design (Dec. 2024 - Mar. 2025)"
+    description:
+      - Analysis of existing city apps
+      - Consulting on modern technologies and architecture
+      - Prototyping search and tracking
+      - "Technologies: Typescript, ElasticSearch, MongoDB, Flutter, Dart"
+
+  - title: "dPhoenix Suite at Dataport AöR (Sep. 2023 - Nov. 2024)"
     description:
       - Automated setup of cloud infrastructure and ensuring operations with appropriate monitoring.
       - Provision of multiple virtual data centers with Kubernetes Engine and virtual machines, including network partitioning.
